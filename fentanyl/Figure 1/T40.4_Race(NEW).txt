@@ -1,0 +1,112 @@
+"Notes"	"Gender"	"Gender Code"	"Single Race 6"	"Single Race 6 Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	319909	Suppressed
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	11	328777	Unreliable
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2021"	"2021"	22	331263	6.6
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional)"	"2022"	18	329412	Unreliable
+	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	"2023 (provisional)"	"2023"	20	329412	6.1
+	"Female"	"F"	"Asian"	"A"	"2019"	"2019"	Suppressed	3208061	Suppressed
+	"Female"	"F"	"Asian"	"A"	"2020"	"2020"	23	3265079	0.7
+	"Female"	"F"	"Asian"	"A"	"2021"	"2021"	38	3256074	1.2
+	"Female"	"F"	"Asian"	"A"	"2022 (provisional)"	"2022"	38	3298267	1.2
+	"Female"	"F"	"Asian"	"A"	"2023 (provisional)"	"2023"	27	3298267	0.8
+	"Female"	"F"	"Black or African American"	"2054-5"	"2019"	"2019"	56	1283822	4.4
+	"Female"	"F"	"Black or African American"	"2054-5"	"2020"	"2020"	101	1283247	7.9
+	"Female"	"F"	"Black or African American"	"2054-5"	"2021"	"2021"	166	1271902	13.1
+	"Female"	"F"	"Black or African American"	"2054-5"	"2022 (provisional)"	"2022"	196	1263468	15.5
+	"Female"	"F"	"Black or African American"	"2054-5"	"2023 (provisional)"	"2023"	146	1263468	11.6
+	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	0	100349	Unreliable
+	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	Suppressed	102219	Suppressed
+	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	Suppressed	102390	Suppressed
+	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional)"	"2022"	Suppressed	101721	Suppressed
+	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023 (provisional)"	"2023"	Suppressed	101721	Suppressed
+	"Female"	"F"	"White"	"2106-3"	"2019"	"2019"	288	14163391	2.0
+	"Female"	"F"	"White"	"2106-3"	"2020"	"2020"	647	13990001	4.6
+	"Female"	"F"	"White"	"2106-3"	"2021"	"2021"	1011	13828981	7.3
+	"Female"	"F"	"White"	"2106-3"	"2022 (provisional)"	"2022"	1010	13669626	7.4
+	"Female"	"F"	"White"	"2106-3"	"2023 (provisional)"	"2023"	719	13669626	5.3
+	"Female"	"F"	"More than one race"	"M"	"2019"	"2019"	17	791837	Unreliable
+	"Female"	"F"	"More than one race"	"M"	"2020"	"2020"	47	821266	5.7
+	"Female"	"F"	"More than one race"	"M"	"2021"	"2021"	52	830036	6.3
+	"Female"	"F"	"More than one race"	"M"	"2022 (provisional)"	"2022"	55	831832	6.6
+	"Female"	"F"	"More than one race"	"M"	"2023 (provisional)"	"2023"	57	831832	6.9
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2019"	"2019"	Suppressed	329953	Suppressed
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2020"	"2020"	22	338493	6.5
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2021"	"2021"	49	343746	14.3
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2022 (provisional)"	"2022"	65	343356	18.9
+	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	"2023 (provisional)"	"2023"	46	343356	13.4
+	"Male"	"M"	"Asian"	"A"	"2019"	"2019"	41	2902884	1.4
+	"Male"	"M"	"Asian"	"A"	"2020"	"2020"	115	2968218	3.9
+	"Male"	"M"	"Asian"	"A"	"2021"	"2021"	115	2994294	3.8
+	"Male"	"M"	"Asian"	"A"	"2022 (provisional)"	"2022"	158	3049460	5.2
+	"Male"	"M"	"Asian"	"A"	"2023 (provisional)"	"2023"	115	3049460	3.8
+	"Male"	"M"	"Black or African American"	"2054-5"	"2019"	"2019"	128	1268935	10.1
+	"Male"	"M"	"Black or African American"	"2054-5"	"2020"	"2020"	346	1272011	27.2
+	"Male"	"M"	"Black or African American"	"2054-5"	"2021"	"2021"	541	1276212	42.4
+	"Male"	"M"	"Black or African American"	"2054-5"	"2022 (provisional)"	"2022"	581	1268489	45.8
+	"Male"	"M"	"Black or African American"	"2054-5"	"2023 (provisional)"	"2023"	511	1268489	40.3
+	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2019"	"2019"	Suppressed	99456	Suppressed
+	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2020"	"2020"	10	101555	Unreliable
+	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2021"	"2021"	22	102600	21.4
+	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2022 (provisional)"	"2022"	15	102067	Unreliable
+	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"2023 (provisional)"	"2023"	10	102067	Unreliable
+	"Male"	"M"	"White"	"2106-3"	"2019"	"2019"	1075	14261348	7.5
+	"Male"	"M"	"White"	"2106-3"	"2020"	"2020"	2559	14083010	18.2
+	"Male"	"M"	"White"	"2106-3"	"2021"	"2021"	3866	14073196	27.5
+	"Male"	"M"	"White"	"2106-3"	"2022 (provisional)"	"2022"	4281	13937699	30.7
+	"Male"	"M"	"White"	"2106-3"	"2023 (provisional)"	"2023"	2983	13937699	21.4
+	"Male"	"M"	"More than one race"	"M"	"2019"	"2019"	47	782278	6.0
+	"Male"	"M"	"More than one race"	"M"	"2020"	"2020"	127	814202	15.6
+	"Male"	"M"	"More than one race"	"M"	"2021"	"2021"	176	827142	21.3
+	"Male"	"M"	"More than one race"	"M"	"2022 (provisional)"	"2022"	205	833945	24.6
+	"Male"	"M"	"More than one race"	"M"	"2023 (provisional)"	"2023"	152	833945	18.2
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.4 (Other synthetic narcotics)"
+"Residence States: California (06)"
+"UCD - Drug/Alcohol Induced Causes: Drug-induced causes"
+"Year/Month: 2019; 2020; 2021; 2022 (provisional); 2023 (provisional)"
+"Group By: Gender; Single Race 6; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Mar 3, 2024 5:14:18 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2024, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Mar 3, 2024 5:14:18 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"3. The population figures for years 2022 and later are single-race estimates of the July 1 resident population, from the Vintage"
+"2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is based on the Modified Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of"
+"the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020"
+"Census data from the internal Census Edited File (CEF). The population figures for years 2021 are single-race estimates of the"
+"July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial"
+"population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30, 2022. The population figures"
+"for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020 postcensal series based on"
+"April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year 2019 are single-race"
+"estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010 Census, released by the"
+"Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the July 1 resident"
+"population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on June 20, 2019."
+"More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"5. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#ICD-10 Changes."
+"6. Deaths occurring through February 17, 2024 as of February 25, 2024."
